@@ -4,7 +4,7 @@ Supplementary materials for Chapter 5
 
 The full ethics application includes,
 
-Markup : * Ethics application
+         * Ethics application
          * Full main survey
          * Subsequent survey
          * Participant Information Sheet (PIS)
